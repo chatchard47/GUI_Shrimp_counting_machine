@@ -82,17 +82,16 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "CP Shrimp Counter"))
         self.pushButton.setText(_translate("MainWindow", "break"))
         self.label.setText(_translate("MainWindow", "Shrimp counting machine"))
         self.pushButton_2.setText(_translate("MainWindow", "Stop Count"))
         self.pushButton_3.setText(_translate("MainWindow", "Start Count"))
         self.pushButton_4.setText(_translate("MainWindow", "Open water"))
         self.pushButton_5.setText(_translate("MainWindow", "Stop water"))
-        self.groupBox.setTitle(_translate("MainWindow", "GroupBox"))
-        self.pushButton_6.setText(_translate("MainWindow", "reset program"))
-        self.menufile.setTitle(_translate("MainWindow", "file"))
-
+        self.groupBox.setTitle(_translate("MainWindow", "???"))
+        self.pushButton_6.setText(_translate("MainWindow", "Reset"))
+        self.menufile.setTitle(_translate("MainWindow", "Some menu"))
 
 if __name__ == "__main__":
     import sys

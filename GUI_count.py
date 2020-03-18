@@ -3,6 +3,7 @@
 # Form implementation generated from reading ui file 'EZGG.ui'
 #
 # Created by: PyQt5 UI code generator 5.13.0
+# Editer : Binary Badger team
 #
 # WARNING! All changes made in this file will be lost!
 
